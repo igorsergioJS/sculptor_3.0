@@ -62,6 +62,7 @@ Para visualizar a figura salva, basta clicar no botão "Geomview"/"Meshlab" (Ape
 
 ![image](https://user-images.githubusercontent.com/64499865/102571465-4e866700-40c8-11eb-9199-393081b45833.png)
 ![image](https://user-images.githubusercontent.com/64499865/102571503-66f68180-40c8-11eb-9469-7165920ac6b9.png)
+![image](https://user-images.githubusercontent.com/64499865/102571597-9efdc480-40c8-11eb-860c-275de181641b.png)
 ![image](https://user-images.githubusercontent.com/64499865/102571550-842b5000-40c8-11eb-9fbd-9a2637f8fed7.png)
 
 
